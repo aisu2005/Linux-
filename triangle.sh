@@ -40,7 +40,7 @@ fi
 
   elif [ $n1 -eq $n2 -a $n1 -eq $n3 ] 
    then
-    echo "Triangle is equelateral "
+    echo "Triangle is equilateral "
   elif [ $n1 -eq $n2 -o  $n1 -eq $n3 -o $n2 -eq $n3 ]
     then
       echo " it is an isosceles triangle"
